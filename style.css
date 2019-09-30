@@ -1,0 +1,20 @@
+.jumbotron img {
+    width : 200px;
+    height: 200px;
+}
+.thumbnail img {
+    width: 350px;
+    padding: 10px;
+    height: 250px;
+}
+#footer {
+    text-decoration-color: antiquewhite;
+    text-align: center;
+    background-color: black;
+}
+.portfolio {
+    margin-top: 50px;
+}
+.about {
+    margin-bottom: 50px;
+}
